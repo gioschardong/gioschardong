@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Giovanni Schardong! Estudante de Ciência da Computação!
-- 1° Semestre - PUCRS 
 - Trabalho com HTML, CSS e JavaScript
-- Estudando Java e Python
-- Email para contato: 
+- Estudando Java e Python 
 
 <div align="center">
   <a href="https://github.com/gioschardong">
