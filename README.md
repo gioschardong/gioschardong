@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Giovanni Schardong! Estudante de Ciência da Computação!
-1° Semestre - PUCRS 
-
+- 1° Semestre - PUCRS 
 - Trabalho com HTML, CSS e JavaScript
 - Estudando Java e Python
+- Email para contato: 
 
 <!--
 **gioschardong/gioschardong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
