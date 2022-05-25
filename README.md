@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Giovanni Schardong! Estudante de Ciência da Computação!
-- Trabalho com HTML, CSS e JavaScript
+- Pequenos projetos com HTML, CSS e JavaScript
 - Estudando Java e Python 
 
 <div align="center">
