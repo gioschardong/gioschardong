@@ -28,4 +28,3 @@
   ![Snake animation](https://github.com/gioschardong/gioschardong/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-  
