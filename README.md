@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Giovanni Schardong! Estudante de Ciência da Computação!
 - Pequenos projetos com HTML, CSS e JavaScript
-- Estudando Java e Python 
+- Estudando Java e Python e SQL
 
 <div align="center">
   <a href="https://github.com/gioschardong">
